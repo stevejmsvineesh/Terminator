@@ -3,6 +3,7 @@ lenovovantage-(lenovoauthenticationaddin).exe
 lenovovantage-(lenovodisplayaddin).exe
 runtimebroker.exe
 searchfilterhost.exe
+searchprotocolhost.exe
 sppsvc.exe
 svchost.exe
 winstore.app.exe
