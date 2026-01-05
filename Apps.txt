@@ -2,6 +2,7 @@ audiodg.exe
 backgroundtaskhost.exe
 chrome.exe
 code.exe
+lenovovantage-(generictelemetryaddin).exe
 lenovovantage-(lenovoauthenticationaddin).exe
 lenovovantage-(lenovodisplayaddin).exe
 microsoftedgeupdate.exe
