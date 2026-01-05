@@ -26,3 +26,11 @@ code.exe
 chrome.exe
 wmiprvse.exe
 lenovovantage-(lenovoauthenticationaddin).exe
+
+svchost.exe
+winstore.app.exe
+code.exe
+chrome.exe
+wmiprvse.exe
+lenovovantage-(lenovoauthenticationaddin).exe
+lenovovantage-(lenovodisplayaddin).exe
