@@ -4,6 +4,7 @@ chrome.exe
 code.exe
 lenovovantage-(lenovoauthenticationaddin).exe
 lenovovantage-(lenovodisplayaddin).exe
+microsoftedgeupdate.exe
 runtimebroker.exe
 searchfilterhost.exe
 searchprotocolhost.exe
