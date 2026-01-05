@@ -13,6 +13,7 @@ sppsvc.exe
 storedesktopextension.exe
 svchost.exe
 taskhostw.exe
+updater.exe
 winstore.app.exe
 wmiprvse.exe
 wudfhost.exe
