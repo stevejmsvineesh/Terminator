@@ -1,4 +1,5 @@
 chrome.exe
+conhost.exe
 lenovovantage-(lenovoauthenticationaddin).exe
 lenovovantage-(lenovodisplayaddin).exe
 msedge.exe
