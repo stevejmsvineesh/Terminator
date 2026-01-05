@@ -1,3 +1,4 @@
 chrome.exe
 lenovovantage-(lenovoauthenticationaddin).exe
+lenovovantage-(lenovodisplayaddin).exe
 winstore.app.exe
