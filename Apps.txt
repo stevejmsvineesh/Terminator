@@ -1,6 +1,7 @@
 chrome.exe
 lenovovantage-(lenovoauthenticationaddin).exe
 lenovovantage-(lenovodisplayaddin).exe
+msedge.exe
 runtimebroker.exe
 searchfilterhost.exe
 searchprotocolhost.exe
