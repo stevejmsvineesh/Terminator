@@ -4,3 +4,7 @@ svchost.exe
 
 svchost.exe
 winstore.app.exe
+
+svchost.exe
+winstore.app.exe
+code.exe
