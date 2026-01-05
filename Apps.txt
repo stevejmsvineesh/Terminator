@@ -76,3 +76,16 @@ zoom.exe
 searchfilterhost.exe
 searchprotocolhost.exe
 audiodg.exe
+
+svchost.exe
+winstore.app.exe
+code.exe
+chrome.exe
+wmiprvse.exe
+lenovovantage-(lenovoauthenticationaddin).exe
+lenovovantage-(lenovodisplayaddin).exe
+zoom.exe
+searchfilterhost.exe
+searchprotocolhost.exe
+audiodg.exe
+backgroundtaskhost.exe
