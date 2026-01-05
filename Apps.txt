@@ -3,6 +3,7 @@ conhost.exe
 lenovovantage-(lenovoauthenticationaddin).exe
 lenovovantage-(lenovodisplayaddin).exe
 msedge.exe
+msedgewebview2.exe
 olk.exe
 runtimebroker.exe
 searchfilterhost.exe
