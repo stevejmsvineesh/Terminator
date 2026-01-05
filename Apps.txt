@@ -5,3 +5,4 @@ runtimebroker.exe
 sppsvc.exe
 svchost.exe
 winstore.app.exe
+wmiprvse.exe
