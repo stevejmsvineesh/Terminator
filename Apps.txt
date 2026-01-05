@@ -4,6 +4,7 @@ lenovovantage-(lenovoauthenticationaddin).exe
 lenovovantage-(lenovodisplayaddin).exe
 msedge.exe
 msedgewebview2.exe
+mspaint.exe
 olk.exe
 runtimebroker.exe
 searchfilterhost.exe
