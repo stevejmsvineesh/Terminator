@@ -8,3 +8,8 @@ winstore.app.exe
 svchost.exe
 winstore.app.exe
 code.exe
+
+svchost.exe
+winstore.app.exe
+code.exe
+chrome.exe
